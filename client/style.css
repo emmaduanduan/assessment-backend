@@ -1,0 +1,52 @@
+form {
+  position: absolute;
+  justify-content: center;
+  width: 350px;
+  min-height: 350px;
+  background-color: rgb(152, 252, 252);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 30px;
+}
+input {
+  width: 200px;
+  margin: 5px;
+}
+#money {
+  font-weight: bold;
+}
+#minus {
+  width: 25px;
+  background-color: #f1c40f;
+  border-radius: 8px;
+}
+#add {
+  width: 25px;
+  background-color: #f1c40f;
+  border-radius: 8px;
+}
+#baseMoney {
+  display: inline;
+  margin: 30px;
+}
+#colorButton {
+  margin: 5px;
+}
+#snailpic {
+  width: 300px;
+  height: 300px;
+}
+#deletePic {
+  font-size: 18px;
+  margin: 20px;
+  background-color: #f1c40f;
+  border-radius: 8px;
+}
+#showPic {
+  font-size: 18px;
+  background-color: #f1c40f;
+  border-radius: 8px;
+}
